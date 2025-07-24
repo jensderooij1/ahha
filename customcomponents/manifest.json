@@ -1,9 +1,0 @@
-{
-  "domain": "albert_heijn",
-  "name": "Albert Heijn",
-  "documentation": "https://github.com/custom-components/albert-heijn",
-  "dependencies": [],
-  "codeowners": [],
-  "requirements": ["requests"],
-  "version": "1.0.0"
-}
